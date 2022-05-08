@@ -1,4 +1,4 @@
-package guru.qa;
+package tests;
 
 import com.codeborne.pdftest.PDF;
 import com.codeborne.pdftest.matchers.ContainsExactText;
